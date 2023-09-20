@@ -9,7 +9,6 @@ module.exports = {
       Services: path.resolve(__dirname, "src/services/"),
       Components: path.resolve(__dirname, "src/components/"),
       Utils: path.resolve(__dirname, "src/utils/"),
-
     },
   },
 };
